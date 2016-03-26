@@ -1,0 +1,10 @@
+body {
+  background: #123456;
+  color: #fff;
+}
+
+.has-image {
+  width: 200px;
+  height: 200px;
+  background: url("../img/background.png") no-repeat;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.14.0",
+    "jade": "^1.11.0",
+    "jade-html-loader": "0.0.3",
+    "style-loader": "^0.13.1",
+    "underscore": "^1.8.3",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.14"
+  }
+}
